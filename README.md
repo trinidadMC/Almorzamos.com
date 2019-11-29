@@ -65,7 +65,7 @@ En el bechmark considere a varios tipos de aplicaciones en a nivel internacional
 La guia de entrevista estuvo orientada a conocer a los usuarios y su experiencia con los restaurantes. Estas preguntas nos permitieron encontrar patrones de conducta para diseñar el user persona.
 
 <br>
-<center><img width="900" alt="affinity map" src="ttps://user-images.githubusercontent.com/51333504/69843940-bce75580-1237-11ea-8ffb-5ed216e631f8.png">
+<center><img width="900" alt="affinity map" src="https://user-images.githubusercontent.com/51333504/69846477-21a7ad80-1242-11ea-8d2c-1c1eeaf9da6c.png">
 
 </center>
 <br>
