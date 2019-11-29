@@ -2,15 +2,15 @@
 |Producto|Descripción|Persona encargada de la Investigación|
 |:----|:---|:---|:---:| :---:|
 |Almorzamos.com (desktop(web))| *Plataforma web que te muestra los paltos del día de diferentes restaurantes*
-| *Trinidad Mejía* |
+| *Trinidad Mejía Cardenas* |
 ***
-almorzamos,es una plataforma web que agrupa los diferentes platos del día de algunos restaurantes de Lima.
+almorzamos, es una plataforma web que agrupa diferentes platos del día de algunos restaurantes de Lima.
 
 <center><img width="900" alt="Almorzamos" src="https://user-images.githubusercontent.com/51333504/69842048-b94fd080-122f-11ea-844f-d0deda504a14.JPG"></center>
 
-Durante mucho tiempo el servicio en los restaurantes para poder realizar pedidos   ha sido la siguiente: Las personas van hacia el local y son atendidas por una persona que se encarga de tomar su pedido y luego de un tiempo servirlo.
+Durante mucho tiempo el servicio en los restaurantes para poder realizar pedidos ha sido la siguiente: Las personas van hacia el local y son atendidas por una persona que se encarga de tomar su pedido y luego de un tiempo servirlo.
 
-Hoy en día esto representa un problema enorme porque, conlleva a una pérdida de tiempos y movimientos por parte del usuario .
+Hoy en día esto representa un problema enorme porque, conlleva a una pérdida de tiempo y movimientos por parte del usuario .
 Es por ello que ya se están creando las tecnologías  necesarias para solucionar este problema.
 
 
@@ -58,7 +58,7 @@ Especificamos **3 tareas** a realizar:
 <center><img width="900" alt="Registro fotografico" src=""></center>
 
 ### [1.1.3. Benchmark]
-<center><img width="900" alt="benchmarck" src="![bemchmarck](https://user-images.githubusercontent.com/51333504/69844184-097f6080-1239-11ea-9795-3fb9700b872a.png)">
+<center><img width="900" alt="benchmarck" src="https://user-images.githubusercontent.com/51333504/69844184-097f6080-1239-11ea-9795-3fb9700b872a.png">
 </center>
 
 En el bechmark considere a varios tipos de aplicaciones en a nivel internacional.
@@ -69,14 +69,17 @@ En el bechmark considere a varios tipos de aplicaciones en a nivel internacional
 La guia de entrevista estuvo orientada a conocer a los usuarios y su experiencia con los restaurantes. Estas preguntas nos permitieron encontrar patrones de conducta para diseñar el user persona.
 
 <br>
-<center><img width="900" alt="affinity map" src="![affinity map original](https://user-images.githubusercontent.com/51333504/69843940-bce75580-1237-11ea-8ffb-5ed216e631f8.png)">
+<center><img width="900" alt="affinity map" src="ttps://user-images.githubusercontent.com/51333504/69843940-bce75580-1237-11ea-8ffb-5ed216e631f8.png">
 
 </center>
 <br>
 
 ### 2.1. User persona
-[user persona](https://user-images.githubusercontent.com/51333504/69839628-5279e980-1226-11ea-9d84-0b958a366401.JPG)
+<br>
+<center><img width="900" alt="affinity map" src="https://user-images.githubusercontent.com/51333504/69844875-0df94880-123c-11ea-9bdb-68de822a2d36.JPG">
 
+</center>
+<br>
 |Perfil |Persona|Edad|
 |:----|:---|:---:|
 |**User persona 1**| Liliana |28 años |
@@ -89,8 +92,7 @@ Luego de las entrevistas a los usuarios, la conclución es:
 ### 2.2 Costumer Journey Map 
 
 Para identificar los puntos de mejora de la app realizamos un Costumer Journey Map del uso de la plataforma almorzamos.
-<center><img width="2000" alt="Customer Journey Map - Almorzamos" src="[customer juourney map](https://user-images.githubusercontent.com/51333504/69841931-3c245b80-122f-11ea-8768-34b6fad3a8ac.JPG)
-">
+<center><img width="2000" alt="Customer Journey Map - Almorzamos" src="https://user-images.githubusercontent.com/51333504/69841931-3c245b80-122f-11ea-8768-34b6fad3a8ac.JPG">
 </center>
 <br>
 
@@ -102,7 +104,7 @@ Estos fueron los siguientes puntos críticos:
 ### 2.4. Problem Statements
 Teniendo en cuenta al user persona, se consideraron 8 problem statements iniciales. Luego de analizar las restricciones de tiempo y recursos, se priorizo los siguientes:
 
-<center><img width="900" alt="problem statement" src="[problems statemente](https://user-images.githubusercontent.com/51333504/69839825-2b6fe780-1227-11ea-9c2b-747fb0301670.JPG)">
+<center><img width="900" alt="problem statement" src="https://user-images.githubusercontent.com/51333504/69839825-2b6fe780-1227-11ea-9c2b-747fb0301670.JPG">
 </center>
 
 Para profundizar y priorizar las soluciones para nuestros problems statement se utilizo las siguientes herramientas:
