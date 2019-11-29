@@ -47,9 +47,9 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con  horarios de 
 
 #### 1.1.2.Guerrilla Testing
 
-Además de los user personas, necesitábamos validar el flujo de la plataforma web. Para ello realizamos testing de guerrilla.
+se valido el flujo de la plataforma web. Para ello se realizó testings de guerrilla con 5 usuarios.
 
-Especificamos **3 tareas** a realizar:
+Se especificó a realizar:
 #### [1. Link del video en loom ](https://www.loom.com/share/1af5ee78ffca465ea77d28ef6062f8ec)(https://www.loom.com/share/87e6735a362f40dcbf43f4aa02a5a27c)(https://www.loom.com/share/5b395a6e880f48cc936ce90c32bffdb9)(https://www.loom.com/share/1b08c5708e614b9e859a2ca4c13384ed)(https://www.loom.com/share/7adc9f25292b4cc7851013dcd1a1c6f0)
 
 
@@ -57,12 +57,12 @@ Especificamos **3 tareas** a realizar:
 <center><img width="900" alt="benchmarck" src="https://user-images.githubusercontent.com/51333504/69844184-097f6080-1239-11ea-9795-3fb9700b872a.png">
 </center>
 
-En el bechmark considere a varios tipos de aplicaciones en a nivel internacional.
+En el bechmark considere a estas aplicaciones internacional.
 
 ## 2. Síntesis y definición
 
 ### [2.1 Affinity Map]
-La guia de entrevista estuvo orientada a conocer a los usuarios y su experiencia con los restaurantes. Estas preguntas nos permitieron encontrar patrones de conducta para diseñar el user persona.
+La guia de entrevista estuvo orientada a conocer a los usuarios y sus experiencias con los restaurantes. Estas preguntas me permitió encontrar patrones de conducta para diseñar el user persona.
 
 <br>
 <center><img width="900" alt="affinity map" src="https://user-images.githubusercontent.com/51333504/69846477-21a7ad80-1242-11ea-8d2c-1c1eeaf9da6c.png">
