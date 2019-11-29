@@ -57,7 +57,7 @@ Se especificó a realizar:
 <center><img width="900" alt="benchmarck" src="https://user-images.githubusercontent.com/51333504/69844184-097f6080-1239-11ea-9795-3fb9700b872a.png">
 </center>
 
-En el bechmark considere a estas aplicaciones internacional.
+En el bechmark considere a estas aplicaciones internacionales.
 
 ## 2. Síntesis y definición
 
