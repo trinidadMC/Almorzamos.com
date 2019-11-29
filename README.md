@@ -6,7 +6,7 @@
 ***
 almorzamos,es una plataforma web que agrupa los diferentes platos del día de algunos restaurantes de Lima.
 
-<center><img width="900" alt="Almorzamos" src="![plataforma almorzamos](https://user-images.githubusercontent.com/51333504/69842048-b94fd080-122f-11ea-844f-d0deda504a14.JPG)"></center>
+<center><img width="900" alt="Almorzamos" src="https://user-images.githubusercontent.com/51333504/69842048-b94fd080-122f-11ea-844f-d0deda504a14.JPG"></center>
 
 Durante mucho tiempo el servicio en los restaurantes para poder realizar pedidos   ha sido la siguiente: Las personas van hacia el local y son atendidas por una persona que se encarga de tomar su pedido y luego de un tiempo servirlo.
 
@@ -24,7 +24,7 @@ Es por ello que ya se están creando las tecnologías  necesarias para soluciona
 - Optimizar el flujo propuesto para las funcionalidades de la plataforma web.
 
 ## Proceso 
-<center><img width="900" alt="Almorzamos" src="[Proceso](https://user-images.githubusercontent.com/51333504/69841896-02535500-122f-11ea-9b18-7bc1535e8ec7.JPG)"
+<center><img width="900" alt="Almorzamos" src="https://user-images.githubusercontent.com/51333504/69841896-02535500-122f-11ea-9b18-7bc1535e8ec7.JPG"
 ></center>
 
 ## 1. Investigación
@@ -33,7 +33,9 @@ Es por ello que ya se están creando las tecnologías  necesarias para soluciona
 
 La plataforma fue creada para usuarios cuyo centro laboral sea con  horarios de ofcinas, cuyos perfiles definí como el user target. Agende entrevistas con 5 usuarios entre 21 y 40 años que cumplan con estos características. 
 
->[**Problemas encontrados a nivel de usuario**][problems statemente](https://user-images.githubusercontent.com/51333504/69842096-f6b45e00-122f-11ea-9914-4faea82a2629.JPG)<br>
+>[**Problemas encontrados a nivel de usuario**]
+<center><img width="900" alt="Almorzamos" src=""></center>
+)<br>
 Luego de realizarlas identificamos los siguientes problemas a nivel de usuario:
 
 - Todos los usuarios de telefonía móvil tienen al menos 1 app relacionado a la comida instalado.
@@ -51,12 +53,12 @@ Luego de realizarlas identificamos los siguientes problemas a nivel de usuario:
 Además de los user personas, necesitábamos validar el flujo de la plataforma web. Para ello realizamos testing de guerrilla.
 
 Especificamos **3 tareas** a realizar:
-<center><img width="900" alt="Testing" src="https://user-images.githubusercontent.com/51206952/65444776-63f1e000-ddf6-11e9-87ad-6626685f18ec.png"></center>
+<center><img width="900" alt="benchmarck" src=""></center>
 
-<center><img width="900" alt="Registro fotografico" src="https://user-images.githubusercontent.com/51206952/65438989-16707580-ddec-11e9-8c23-965d18c13a6c.png"></center>
+<center><img width="900" alt="Registro fotografico" src=""></center>
 
 ### [1.1.3. Benchmark]
-<center><img width="900" alt="Testing" src="![bemchmarck](https://user-images.githubusercontent.com/51333504/69844184-097f6080-1239-11ea-9795-3fb9700b872a.png)">
+<center><img width="900" alt="benchmarck" src="![bemchmarck](https://user-images.githubusercontent.com/51333504/69844184-097f6080-1239-11ea-9795-3fb9700b872a.png)">
 </center>
 
 En el bechmark considere a varios tipos de aplicaciones en a nivel internacional.
