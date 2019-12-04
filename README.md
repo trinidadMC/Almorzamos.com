@@ -4,11 +4,12 @@
 |Almorzamos.com (desktop(web))| *Plataforma web que te muestra los paltos del día de diferentes restaurantes*
 | *Trinidad Mejía Cardenas* |
 ***
-almorzamos, es una plataforma web que agrupa diferentes platos del día de algunos restaurantes de Lima.
+Almorzamos, es una plataforma web que agrupa diferentes platos del día de algunos restaurantes de Lima.
 
 <center><img width="900" alt="Almorzamos" src="https://user-images.githubusercontent.com/51333504/69842048-b94fd080-122f-11ea-844f-d0deda504a14.JPG"></center>
 
-Durante mucho tiempo el servicio en los restaurantes para poder realizar pedidos ha sido la siguiente: Las personas van hacia el local y son atendidas por una persona que se encarga de tomar su pedido y luego de un tiempo servirlo.
+Durante mucho tiempo el servicio en los restaurantes para poder realizar pedidos ha sido la siguiente: 
+Las personas van hacia el local y son atendidas por una persona que se encarga de tomar su pedido y luego de un tiempo servirlo.
 
 Hoy en día esto representa un problema enorme porque, conlleva a una pérdida de tiempo y movimientos por parte del usuario .
 Es por ello que ya se están creando las tecnologías  necesarias para solucionar este problema.
@@ -31,16 +32,16 @@ Es por ello que ya se están creando las tecnologías  necesarias para soluciona
 
 ### 1.1. Entrevistas a usuarios
 
-La plataforma fue creada para usuarios cuyo centro laboral sea con  horarios de ofcinas, cuyos perfiles definí como el user target. Agende entrevistas con 5 usuarios entre 21 y 40 años que cumplan con estos características. 
+La plataforma fue creada para usuarios cuyo centro laboral sea con  horarios de oficinas, cuyos perfiles definí como el user target. Agende entrevistas con 5 usuarios entre 21 y 40 años que cumplan con estas características. 
 
 ## Luego de realizar las entrevistas se identifico los siguientes problemas a nivel de usuario:
 
 - Todos los usuarios de telefonía móvil tienen al menos 1 app relacionado a la comida instalado.
 - Las aplicaciones que más usan son WhatsApp, Instagram, Netflix y dentro de las apps de comidas, las preferidas fueron las de rappy y del uber Eats.
-- Todos los usuarios se tardan demasiado buscando un restaurante que le ofrezca algo que me guste, y que los restaurantes más cercanos no cuentan con mesas disponibles, y que se tardan demasiado en tomarme el pedido y en servirlo.
-- Para los usuarios el tiempo es primordial por lo que utilizan distintas aplicaciones; sin embargo el principal problema para ellos es que los restaurantes no muestran opciones de comidas saludable, no muestran  informacion necesaria(review), y que tenga una opción de buscar por categorías por ejemplo se me antoja comida china, criolla, etc.
+- Todos los usuarios se tardan demasiado buscando un restaurante que le ofrezca algo que les guste, y que los restaurantes más cercanos no cuentan con mesas disponibles, y  se tardan demasiado en tomarles el pedido y en servirlo.
+- Para los usuarios el tiempo es primordial por lo que utilizan distintas aplicaciones; sin embargo el principal problema para ellos es que los restaurantes no muestran opciones de comidas saludable, no muestran  información necesaria(review), y que tenga una opción de buscar por categorías por ejemplo ( se me antoja comida china, criolla, etc).
 
-> *“Quiero que la app de comida que me ofresca un buen servicio y sea rápido y seguro”*
+> *“Quiero que la app de comida  me ofresca un buen servicio, sea rápido y seguro”*
 > **Vannia salazeta (27 años)**
 <br>
 
@@ -49,8 +50,13 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con  horarios de 
 
 se valido el flujo de la plataforma web. Para ello se realizó testings de guerrilla con 5 usuarios.
 
-Se especificó a realizar:
-#### [1. Link del video en loom ](https://www.loom.com/share/1af5ee78ffca465ea77d28ef6062f8ec)(https://www.loom.com/share/87e6735a362f40dcbf43f4aa02a5a27c)(https://www.loom.com/share/5b395a6e880f48cc936ce90c32bffdb9)(https://www.loom.com/share/1b08c5708e614b9e859a2ca4c13384ed)(https://www.loom.com/share/7adc9f25292b4cc7851013dcd1a1c6f0)
+Se :
+#### [1. Link del video en loom]
+(https://www.loom.com/share/1af5ee78ffca465ea77d28ef6062f8ec)
+(https://www.loom.com/share/87e6735a362f40dcbf43f4aa02a5a27c)
+(https://www.loom.com/share/5b395a6e880f48cc936ce90c32bffdb9)
+(https://www.loom.com/share/1b08c5708e614b9e859a2ca4c13384ed)
+(https://www.loom.com/share/7adc9f25292b4cc7851013dcd1a1c6f0)
 
 
 ### [1.1.3. Benchmark]
@@ -82,28 +88,28 @@ La guia de entrevista estuvo orientada a conocer a los usuarios y sus experienci
 
 Luego de las entrevistas a los usuarios, la conclución es:
 
-- Las necesidades de Liliana tienen requerimientos que por el momento la plataforma web de  Almorzamos no puede ofrecer.
-- Requieren otras funcionalidades como ubicación de los restaurantes variedades de tipos de platos, reviews.
+- Las necesidades del los usuarios tienen requerimientos que por el momento la plataforma web de  Almorzamos no puede ofrecer.
 
 ### 2.2 Costumer Journey Map 
 
-Para identificar los puntos de mejora de la app realizamos un Costumer Journey Map del uso de la plataforma almorzamos.
+Para identificar los puntos de mejora de la app realizamos un Costumer Journey Map del usuario en su dia de ir almorzar.
 <center><img width="2000" alt="Customer Journey Map - Almorzamos" src="https://user-images.githubusercontent.com/51333504/69841931-3c245b80-122f-11ea-8768-34b6fad3a8ac.JPG">
 </center>
 <br>
 
 Estos fueron los siguientes puntos críticos:
 
-1. Le gusta saber que existen esta plataforma para poder encontrar los restaurantes de la aplicación, pero no logra entender.
-1. No tenian vison del plato que muestra la plataforma. Le pareció genial poder ver el menú de toda la semana.
-1. No puedo obtener más información  del restaurante, no me permite hacer nada más.
+1. A los usuarioa les gusta saber que  esta plataforma para poder encontrar los restaurantes , pero no logran entender.
+1. No tenian visión del plato que muestra la plataforma. Les pareció genial poder ver el menú de toda la semana.
+1. No puedo obtener más información  del restaurante, ni hacer nada más.
+
 ### 2.4. Problem Statements
-Teniendo en cuenta al user persona, se consideraron 8 problem statements iniciales. Luego de analizar las restricciones de tiempo y recursos, se priorizo los siguientes:
+Teniendo en cuenta la investigación, se consideraron 8 problems statements iniciales. Luego de analizar las restricciones de tiempo y recursos, se priorizo los siguientes:
 
 <center><img width="900" alt="problem statement" src="https://user-images.githubusercontent.com/51333504/69839825-2b6fe780-1227-11ea-9c2b-747fb0301670.JPG">
 </center>
 
-Para profundizar y priorizar las soluciones para nuestros problems statement se utilizo las siguientes herramientas:
+:
 
 *1. How Might We / Cómo podríamos*
 
