@@ -138,7 +138,7 @@ Que le permita al usuario acceder a la información de los restaurantes(reviews)
 
 ## Enlaces 
 
-#### [1. Link a documentación en Google Drive](https://docs.google.com/presentation/d/1RO6XfReDGp_qGbA6eOWQ6X8WdzcM-y6CycQn9Os8inI/edit#slide=id.p1)
+#### [1.Link a documentación en Google Drive](https://docs.google.com/presentation/d/1RO6XfReDGp_qGbA6eOWQ6X8WdzcM-y6CycQn9Os8inI/edit#slide=id.p1)
 
 
 
