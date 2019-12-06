@@ -59,7 +59,10 @@ Link de los video en loom:
 
 Luego de realizar los testing de guerrilla se identifico los siguientes problemas a nivel de usuario:
 
-- 
+1. A los usuarios les gusta saber que existe esta plataforma para poder encontrar los restaurantes, pero no lo logran entender.
+1. la los usuarios ver una imagen del plato que muestra la plataforma.(todo entra por los ojos).
+1. A los usuarios Les pareció genial poder ver el menú de toda la semana.
+1. A los usuarios les descontentó al no poder obtener más información del restaurante, y el no poder ni hacer nada más en la plataforma.
 
 
 ### [1.1.3. Benchmark]
@@ -101,10 +104,6 @@ Para identificar los puntos de mejora de la app realizamos un Costumer Journey M
 <br>
 
 Estos fueron los siguientes puntos críticos:
-
-1. A los usuarioa les gusta saber que  esta plataforma para poder encontrar los restaurantes , pero no logran entender.
-1. No tenian visión del plato que muestra la plataforma. Les pareció genial poder ver el menú de toda la semana.
-1. No puedo obtener más información  del restaurante, ni hacer nada más.
 
 ### 2.4. Problem Statements
 Teniendo en cuenta la investigación, se consideraron 8 problems statements iniciales. Luego de analizar las restricciones de tiempo y recursos, se priorizo los siguientes:
