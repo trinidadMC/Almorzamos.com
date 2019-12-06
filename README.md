@@ -200,7 +200,7 @@ Estos fueron los siguientes puntos críticos:
 En base a la investigación, se consideraron estos  problem statements.
   
 
-<center><img  width="900"  alt="problem statement"  src="https://user-images.githubusercontent.com/51333504/69839825-2b6fe780-1227-11ea-9c2b-747fb0301670.JPG">
+<center><img  width="900"  alt="problem statement"  src="https://user-images.githubusercontent.com/51333504/70359407-d137dd80-1849-11ea-85d0-eda4b6fab3f0.png">
 
 </center>
 
