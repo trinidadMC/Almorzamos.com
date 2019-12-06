@@ -1,6 +1,6 @@
 
 |Producto|Descripción|Persona encargada de la Investigación|
-|:----|:---|:---|:---:| :---:|
+|:----|:---|:---|
 |Almorzamos.com (desktop(web))| *Plataforma web que te muestra los paltos del día de diferentes restaurantes*
 | *Trinidad Mejía Cardenas* |
 ***
@@ -8,7 +8,7 @@ Almorzamos, es una plataforma web que agrupa diferentes platos del día de algun
 
 <center><img width="900" alt="Almorzamos" src="https://user-images.githubusercontent.com/51333504/69842048-b94fd080-122f-11ea-844f-d0deda504a14.JPG"></center>
 
-Durante mucho tiempo el servicio en los restaurantes para poder realizar pedidos ha sido la siguiente: 
+Durante mucho tiempo el servicio en los restaurantes para poder realizar pedidos ha sido lo siguiente: 
 Las personas van hacia el local y son atendidas por una persona que se encarga de tomar su pedido y luego de un tiempo servirlo.
 
 Hoy en día esto representa un problema enorme porque, conlleva a una pérdida de tiempo y movimientos por parte del usuario .
@@ -38,7 +38,7 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con  horarios de 
 
 - Todos los usuarios de telefonía móvil tienen al menos 1 app relacionado a la comida instalado.
 - Las aplicaciones que más usan son WhatsApp, Instagram, Netflix y dentro de las apps de comidas, las preferidas fueron las de rappy y del uber Eats.
-- Todos los usuarios se tardan demasiado buscando un restaurante que le ofrezca algo que les guste, y que los restaurantes más cercanos no cuentan con mesas disponibles, y  se tardan demasiado en tomarles el pedido y en servirlo.
+- Todos los usuarios se tardan demasiado buscando un restaurante que le ofrezca algo que les guste, y  los restaurantes más cercanos no cuentan con mesas disponibles, además  se tardan demasiado en tomarles el pedido y en servirlo.
 - Para los usuarios el tiempo es primordial por lo que utilizan distintas aplicaciones; sin embargo el principal problema para ellos es que los restaurantes no muestran opciones de comidas saludable, no muestran  información necesaria(review), y que tenga una opción de buscar por categorías por ejemplo ( se me antoja comida china, criolla, etc).
 
 > *“Quiero que la app de comida  me ofresca un buen servicio, sea rápido y seguro”*
@@ -50,13 +50,16 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con  horarios de 
 
 se valido el flujo de la plataforma web. Para ello se realizó testings de guerrilla con 5 usuarios.
 
-Se :
-#### [1. Link del video en loom]
-(https://www.loom.com/share/1af5ee78ffca465ea77d28ef6062f8ec)
-(https://www.loom.com/share/87e6735a362f40dcbf43f4aa02a5a27c)
-(https://www.loom.com/share/5b395a6e880f48cc936ce90c32bffdb9)
-(https://www.loom.com/share/1b08c5708e614b9e859a2ca4c13384ed)
-(https://www.loom.com/share/7adc9f25292b4cc7851013dcd1a1c6f0)
+Link de los video en loom:
+#### [2.video ](https://www.loom.com/share/1af5ee78ffca465ea77d28ef6062f8ec)
+#### [3.video ](https://www.loom.com/share/87e6735a362f40dcbf43f4aa02a5a27c)
+#### [4.video ](https://www.loom.com/share/5b395a6e880f48cc936ce90c32bffdb9)
+#### [5.video ](https://www.loom.com/share/1b08c5708e614b9e859a2ca4c13384ed)
+#### [6.video ](https://www.loom.com/share/7adc9f25292b4cc7851013dcd1a1c6f0)
+
+Luego de realizar los testing de guerrilla se identifico los siguientes problemas a nivel de usuario:
+
+- 
 
 
 ### [1.1.3. Benchmark]
