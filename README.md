@@ -77,7 +77,7 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
-<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70361482-b5373a80-184f-11ea-86cf-336ec87a3937.png">
+<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70361683-64741180-1850-11ea-8c0b-36fdb0902f60.png">
 
   
 
