@@ -250,4 +250,4 @@ Implementación de funcionalidades para obetener el público deseado:
 
   
 
-#### [1.Link a documentación en Google Drive](https://docs.google.com/presentation/d/1RO6XfReDGp_qGbA6eOWQ6X8WdzcM-y6CycQn9Os8inI/edit#slide=id.p1)
+#### [1.Link a documentación en Google Drive](https://drive.google.com/drive/folders/18zE2JVQhaL8cu_jXsMB9sUMvoLsnA5Q0)
