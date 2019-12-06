@@ -1,8 +1,8 @@
 #  ALMORZAMOS
 
-|Producto|Descripción| | Persona Encargada |
-|:----|:---|:---|:---:| :---:|
-|Almozamos.com (web)| *Plataforma web que te muestra los paltos del día de diferentes restaurantes* | * Trinidad Mejía* |
+|Producto|Descripción| | Persona Encargada |||
+|:----|:---|:---|
+|Almozamos.com (web) | *Plataforma web que te muestra los paltos del día de diferentes restaurantes* | * Trinidad Mejía* |||
 
 ***
 Almorzamos, es una plataforma web que agrupa diferentes platos del día de algunos restaurantes de Lima.
@@ -91,7 +91,7 @@ La guia de entrevista estuvo orientada a conocer a los usuarios y sus experienci
 <br>
 |Perfil |Persona|Edad|
 |:----|:---|:---:|
-|**User persona 1**| Liliana |28 años |
+|*User persona 1*|*Liliana*|*28 años* |
 
 Luego de las entrevistas a los usuarios, la conclución es:
 
