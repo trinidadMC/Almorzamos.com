@@ -77,7 +77,7 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
-<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70355620-9d0bef00-1840-11ea-824c-bac97e4f67dc.png">
+<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70361299-0692fa00-184f-11ea-8274-efce32b9c632.png">
 
   
 
@@ -333,7 +333,7 @@ En base a la investigación, se consideraron estos problem statements.
 
   
 
-<center><img  width="900"  alt="problem statement"  src="https://user-images.githubusercontent.com/51333504/70359407-d137dd80-1849-11ea-85d0-eda4b6fab3f0.png">
+<center><img  width="900"  alt="problem statement"  src="(https://user-images.githubusercontent.com/51333504/70361291-01ce4600-184f-11ea-922e-d658de9794da.png">
 
   
 
