@@ -77,7 +77,7 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
-<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70361299-0692fa00-184f-11ea-8274-efce32b9c632.png">
+<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70361482-b5373a80-184f-11ea-86cf-336ec87a3937.png">
 
   
 
@@ -207,37 +207,8 @@ En el benchmark considere a estas aplicaciones internacionales.
 
   
 
-  
-
-### [2.1 Affinity Map]
-
-  
-
 La guía de entrevista estuvo orientada a conocer a los usuarios y sus experiencias con los restaurantes. Estas preguntas me permitió encontrar patrones de conducta para diseñar el user persona.
 
-  
-
-  
-
-<br>
-
-  
-
-<center><img  width="900"  alt="affinity map"  src="https://user-images.githubusercontent.com/51333504/69846477-21a7ad80-1242-11ea-8d2c-1c1eeaf9da6c.png">
-
-  
-
-  
-
-</center>
-
-  
-
-<br>
-
-  
-
-  
 
 ### 2.1. User persona
 
