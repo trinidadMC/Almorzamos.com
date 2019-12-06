@@ -151,7 +151,7 @@ La guia de entrevista estuvo orientada a conocer a los usuarios y sus experienci
 
 <br>
 
-<center><img  width="900"  alt="affinity map"  src="https://user-images.githubusercontent.com/51333504/69844875-0df94880-123c-11ea-9bdb-68de822a2d36.JPG">
+<center><img  width="900"  alt="affinity map"  src="https://user-images.githubusercontent.com/51333504/70353984-911e2e00-183c-11ea-8e6b-f6fbc593be69.png">
 
   
 
