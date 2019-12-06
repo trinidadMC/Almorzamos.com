@@ -1,9 +1,10 @@
-
+#  ALMORZAMOS
 |Producto|Descripción|Persona encargada de la Investigación|
-|:----|:---|:---|
-|Almorzamos.com (desktop(web))| *Plataforma web que te muestra los paltos del día de diferentes restaurantes*
-| *Trinidad Mejía Cardenas* |
+|:----|:---|:---|:---|
+|Almorzamos.com (web)|*Plataforma web que te muestra los paltos del día de diferentes restaurantes*| *Trinidad Mejía*|
+
 ***
+
 Almorzamos, es una plataforma web que agrupa diferentes platos del día de algunos restaurantes de Lima.
 
 <center><img width="900" alt="Almorzamos" src="https://user-images.githubusercontent.com/51333504/69842048-b94fd080-122f-11ea-844f-d0deda504a14.JPG"></center>
@@ -51,16 +52,16 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con  horarios de 
 se valido el flujo de la plataforma web. Para ello se realizó testings de guerrilla con 5 usuarios.
 
 Link de los video en loom:
-#### [2.video ](https://www.loom.com/share/1af5ee78ffca465ea77d28ef6062f8ec)
-#### [3.video ](https://www.loom.com/share/87e6735a362f40dcbf43f4aa02a5a27c)
-#### [4.video ](https://www.loom.com/share/5b395a6e880f48cc936ce90c32bffdb9)
-#### [5.video ](https://www.loom.com/share/1b08c5708e614b9e859a2ca4c13384ed)
-#### [6.video ](https://www.loom.com/share/7adc9f25292b4cc7851013dcd1a1c6f0)
+#### [2.video 1](https://www.loom.com/share/1af5ee78ffca465ea77d28ef6062f8ec)
+#### [3.video  2](https://www.loom.com/share/87e6735a362f40dcbf43f4aa02a5a27c)
+#### [4.video  3](https://www.loom.com/share/5b395a6e880f48cc936ce90c32bffdb9)
+#### [5.video  4](https://www.loom.com/share/1b08c5708e614b9e859a2ca4c13384ed)
+#### [6.video  5](https://www.loom.com/share/7adc9f25292b4cc7851013dcd1a1c6f0)
 
 Luego de realizar los testing de guerrilla se identifico los siguientes problemas a nivel de usuario:
 
 1. A los usuarios les gusta saber que existe esta plataforma para poder encontrar los restaurantes, pero no lo logran entender.
-1. la los usuarios ver una imagen del plato que muestra la plataforma.(todo entra por los ojos).
+1. A los usuarios les gustaria ver una imagen del plato que muestra la plataforma (todo entra por los ojos).
 1. A los usuarios Les pareció genial poder ver el menú de toda la semana.
 1. A los usuarios les descontentó al no poder obtener más información del restaurante, y el no poder ni hacer nada más en la plataforma.
 
