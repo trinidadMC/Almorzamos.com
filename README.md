@@ -1,10 +1,10 @@
 #  ALMORZAMOS
-|Producto|Descripción|Persona encargada de la Investigación|
-|:----|:---|:---|:---|
-|Almorzamos.com (web)|*Plataforma web que te muestra los paltos del día de diferentes restaurantes*| *Trinidad Mejía*|
+
+|Producto|Descripción| Investigación | | Persona Encargada |
+|:----|:---|:---|:---:| :---:|
+|Almozamos.com (web)| *Plataforma web que te muestra los paltos del día de diferentes restaurantes* || | * Trinidad Mejía* |
 
 ***
-
 Almorzamos, es una plataforma web que agrupa diferentes platos del día de algunos restaurantes de Lima.
 
 <center><img width="900" alt="Almorzamos" src="https://user-images.githubusercontent.com/51333504/69842048-b94fd080-122f-11ea-844f-d0deda504a14.JPG"></center>
