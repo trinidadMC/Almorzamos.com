@@ -2,20 +2,31 @@
 
   
 
+  
+
 | Producto | Descripción | Persona encargada |
 
+  
+
 |---|---|---|
+
+  
 
 | almorzamos.com (web) |*Plataforma web que te muestra los platos del día de diferentes restaurantes.* | *Trinidad Mejía* |
 
   
+
   
 
 ***
 
   
 
+  
+
 Almorzamos, es una plataforma web que agrupa diferentes platos del día de algunos restaurantes de Lima.
+
+  
 
   
 
@@ -27,7 +38,11 @@ Almorzamos, es una plataforma web que agrupa diferentes platos del día de algun
 
   
 
+  
+
 Durante mucho tiempo el servicio en los restaurantes para poder realizar pedidos ha sido lo siguiente:
+
+  
 
   
 
@@ -37,7 +52,11 @@ Las personas van hacia el local y son atendidas por una persona que se encarga d
 
   
 
+  
+
 Hoy en día esto representa un problema enorme porque, conlleva a una pérdida de tiempo y movimientos por parte del usuario .
+
+  
 
   
 
@@ -47,11 +66,17 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+
 ><br>*Según datos del [Yeeply](https://www.yeeply.com/blog/tendencias-desarrollo-apps-moviles-2019//https) [Economiatic]//economiatic.com/importancia-apps-moviles-empresas/), En la última década, las apps móviles se han posicionado como unas de las herramientas más eficaces para las empresas, especialmente en el campo del e-commerce. Y no es para menos, pues las aplicaciones facilitan la vida de los usuarios, promueven la interconectividad y mejoran la experiencia en la adquisición de productos y servicios.*
 
   
 
+  
+
 <br>
+
+  
 
   
 
@@ -63,7 +88,11 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+
 - validar el prototipo que tenemos y cómo podríamos mejorarlo para acercarnos más al cliente esperado.
+
+  
 
   
 
@@ -73,11 +102,17 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+
 ## Proceso
 
   
 
-<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70355620-9d0bef00-1840-11ea-824c-bac97e4f67dc.png">
+  
+
+<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70361683-64741180-1850-11ea-8c0b-36fdb0902f60.png">
+
+  
 
   
 
@@ -85,13 +120,17 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+
 ## 1. Investigación
 
   
-  
+
   
 
 ### 1.1. Entrevistas a usuarios
+
+  
 
   
 
@@ -103,7 +142,11 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con horarios de o
 
   
 
+  
+
 ## Luego de realizar las entrevistas se identifico los siguientes problemas a nivel de usuario:
+
+  
 
   
 
@@ -113,11 +156,17 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con horarios de o
 
   
 
+  
+
 - Las aplicaciones que más usan son WhatsApp, Instagram, Netflix y dentro de las apps de comidas, las preferidas fueron las de rappy y del uber Eats.
 
   
 
+  
+
 - Todos los usuarios se tardan demasiado buscando un restaurante que le ofrezca algo que les guste, y los restaurantes más cercanos no cuentan con mesas disponibles, además se tardan demasiado en tomarles el pedido y en servirlo.
+
+  
 
   
 
@@ -127,7 +176,11 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con horarios de o
 
   
 
+  
+
 >  *“Quiero que la app de comida me ofrezca un buen servicio, sea rápido y seguro”*
+
+  
 
   
 
@@ -135,7 +188,11 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con horarios de o
 
   
 
+  
+
 <br>
+
+  
 
   
 
@@ -147,7 +204,11 @@ La plataforma fue creada para usuarios cuyo centro laboral sea con horarios de o
 
   
 
+  
+
 se valido el flujo de la plataforma web. Para ello se realizó testing de guerrilla con 5 usuarios.
+
+  
 
   
 
@@ -157,7 +218,11 @@ Link de los video en loom:
 
   
 
+  
+
 #### [video 1](https://www.loom.com/share/1af5ee78ffca465ea77d28ef6062f8ec)
+
+  
 
   
 
@@ -165,11 +230,17 @@ Link de los video en loom:
 
   
 
+  
+
 #### [video 3](https://www.loom.com/share/5b395a6e880f48cc936ce90c32bffdb9)
 
   
 
+  
+
 #### [video 4](https://www.loom.com/share/1b08c5708e614b9e859a2ca4c13384ed)
+
+  
 
   
 
@@ -179,7 +250,11 @@ Link de los video en loom:
 
   
 
+  
+
 Luego de realizar los testing de guerrilla se identifico los siguientes problemas a nivel de usuario:
+
+  
 
   
 
@@ -187,11 +262,17 @@ Luego de realizar los testing de guerrilla se identifico los siguientes problema
 
   
 
+  
+
 <center><img  width="900"  alt="benchmark"  src="https://user-images.githubusercontent.com/51333504/69844184-097f6080-1239-11ea-9795-3fb9700b872a.png">
 
   
 
+  
+
 </center>
+
+  
 
   
 
@@ -203,47 +284,28 @@ En el benchmark considere a estas aplicaciones internacionales.
 
   
 
+  
+
 ## 2. Síntesis y definición
 
   
 
   
 
-### [2.1 Affinity Map]
-
-  
-
 La guía de entrevista estuvo orientada a conocer a los usuarios y sus experiencias con los restaurantes. Estas preguntas me permitió encontrar patrones de conducta para diseñar el user persona.
 
   
-
-  
-
-<br>
-
-  
-
-<center><img  width="900"  alt="affinity map"  src="https://user-images.githubusercontent.com/51333504/69846477-21a7ad80-1242-11ea-8d2c-1c1eeaf9da6c.png">
-
-  
-
-  
-
-</center>
-
-  
-
-<br>
-
-  
-
   
 
 ### 2.1. User persona
 
   
 
+  
+
 <br>
+
+  
 
   
 
@@ -253,24 +315,31 @@ La guía de entrevista estuvo orientada a conocer a los usuarios y sus experienc
 
   
 
+  
+
 </center>
+
+  
 
   
 
 <br>
 
   
-| Perfil   |  Persona |  Edad |
+
+  | Perfil  |  Persona |   Edad |
 |---|---|---|
-| *User persona*  | *Liliana*  | *28 años*  |
-
+| *User persona*  |*Liliana*   |  *28 años* |
   
-
 Luego de las entrevistas a los usuarios, la conclusión es:
 
   
 
+  
+
 - Las necesidades del los usuarios tienen requerimientos que por el momento la plataforma web de Almorzamos no puede ofrecer.
+
+  
 
   
 
@@ -282,7 +351,11 @@ Luego de las entrevistas a los usuarios, la conclusión es:
 
   
 
+  
+
 Para identificar los puntos de mejora de la app realizamos un Costumer Journey Map del usuario en su tiempo de ir almorzar.
+
+  
 
   
 
@@ -290,7 +363,11 @@ Para identificar los puntos de mejora de la app realizamos un Costumer Journey M
 
   
 
+  
+
 </center>
+
+  
 
   
 
@@ -298,7 +375,11 @@ Para identificar los puntos de mejora de la app realizamos un Costumer Journey M
 
   
 
+  
+
 Estos fueron los siguientes puntos críticos:
+
+  
 
   
 
@@ -306,11 +387,17 @@ Estos fueron los siguientes puntos críticos:
 
   
 
+  
+
 1. A los usuarios les gustaría ver una imagen del plato que muestra la plataforma (todo entra por los ojos).
 
   
 
+  
+
 1. A los usuarios Les pareció genial poder ver el menú de toda la semana, pero no pueden ver que otras opciones ofrecen los restaurantes.
+
+  
 
   
 
@@ -320,7 +407,11 @@ Estos fueron los siguientes puntos críticos:
 
   
 
+  
+
 ### 2.4. Problem Statements
+
+  
 
   
 
@@ -328,11 +419,17 @@ En base a la investigación, se consideraron estos problem statements.
 
   
 
-<center><img  width="900"  alt="problem statement"  src="https://user-images.githubusercontent.com/51333504/70359407-d137dd80-1849-11ea-85d0-eda4b6fab3f0.png">
+  
+
+<center><img  width="900"  alt="problem statement"  src="https://user-images.githubusercontent.com/51333504/70361291-01ce4600-184f-11ea-922e-d658de9794da.png">
+
+  
 
   
 
 </center>
+
+  
 
   
 
@@ -344,11 +441,17 @@ En base a la investigación, se consideraron estos problem statements.
 
   
 
+  
+
 Los usuarios se toman más de la mitad del tiempo que tienen en encontrar un restaurante con disponibilidad de mesa, la atención en los restaurantes se tarda demasiado y no disfrutan tanto sus almuerzo como quisieran.
 
   
 
+  
+
 Los usuarios necesitan poder pagar con diferentes métodos (tarjetas de crédito o débito) dado que los usuarios no siempre cuentan con efectivo disponible.
+
+  
 
   
 
@@ -358,7 +461,11 @@ A los usuarios eligen los productos que tienen recomendaciones u opiniones posit
 
   
 
+  
+
 ### 3.1 Recomendaciones
+
+  
 
   
 
@@ -366,7 +473,11 @@ La plataforma web almorzamos necesita implementar mejoras y nuevas funcionalidad
 
   
 
+  
+
 Implementación de funcionalidades para obtener el público deseado:
+
+  
 
   
 
@@ -374,7 +485,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 1. Mostrar las variedades de comidas por restaurantes (con imágenes incluidas).
+
+  
 
   
 
@@ -382,7 +497,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 1. Mostrar las promociones que los restaurantes ofrecen.
+
+  
 
   
 
@@ -390,7 +509,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 1. Mostrar el tiempo que tarda la cocción del plato elegido (aprox)
+
+  
 
   
 
@@ -398,7 +521,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 1. Mostrar cuales son los restaurantes que ofrecen el servicio de delivery.
+
+  
 
   
 
@@ -408,7 +535,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 ## Enlaces
+
+  
 
   
 
