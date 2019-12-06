@@ -197,8 +197,7 @@ Estos fueron los siguientes puntos críticos:
 
 ### 2.4. Problem Statements
 
-Teniendo en cuenta la investigación, se consideraron 8 problem statements iniciales. Luego de analizar las restricciones de tiempo y recursos, se priorizo los siguientes:
-
+En base a la investigación, se consideraron estos  problem statements.
   
 
 <center><img  width="900"  alt="problem statement"  src="https://user-images.githubusercontent.com/51333504/69839825-2b6fe780-1227-11ea-9c2b-747fb0301670.JPG">
