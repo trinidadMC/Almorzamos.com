@@ -1,9 +1,9 @@
 #  ALMORZAMOS
 
 
-|Producto|Descripción| Persona Encargada |
+|Producto|Descripción| Persona Encargada |||
 |:----|:---|:---|:---:| :---:|
-|Almozamos.com (web)| *Plataforma web que te muestra los paltos del día de diferentes restaurantes* |*Trinidad Mejía*|
+|Almozamos.com (web)| *Plataforma web que te muestra los paltos del día de diferentes restaurantes* |*Trinidad Mejía*| |  |
 
 ***
 Almorzamos, es una plataforma web que agrupa diferentes platos del día de algunos restaurantes de Lima.
@@ -101,7 +101,7 @@ Luego de las entrevistas a los usuarios, la conclución es:
 ### 2.2 Costumer Journey Map 
 
 Para identificar los puntos de mejora de la app realizamos un Costumer Journey Map del usuario en su dia de ir almorzar.
-<center><img width="2000" alt="Customer Journey Map - Almorzamos" src="https://user-images.githubusercontent.com/51333504/69841931-3c245b80-122f-11ea-8768-34b6fad3a8ac.JPG">
+<center><img width="2000" alt="Customer Journey Map - Almorzamos" src="(https://user-images.githubusercontent.com/51333504/70347718-24e8fd80-182f-11ea-98a2-6da18a885357.png">
 </center>
 <br>
 
@@ -113,31 +113,24 @@ Teniendo en cuenta la investigación, se consideraron 8 problems statements inic
 <center><img width="900" alt="problem statement" src="https://user-images.githubusercontent.com/51333504/69839825-2b6fe780-1227-11ea-9c2b-747fb0301670.JPG">
 </center>
 
-:
-
-*1. How Might We / Cómo podríamos*
-
-*2. What if*
-
-*3. Feature List*
 
 ## 3. Conclusión de la investigación
 
-Los usuarios se toman más de la mitad del tiempo que tiene para ir almorzar en busqueda de restaurante con disponibilidad de mesa, la atención se demora demasiado y no disfrutan tanto sus almuerzo como quisieran.
+Los usuarios se toman más de la mitad del tiempo que tienen en encontrar un restaurante con disponibilidad de mesa, la atención en los restaurantes se tarda demasiado y no disfrutan tanto sus almuerzo como quisieran.
 Los usuarios necesitan poder pagar con diferentes metodos (tajetas de credito o débito) ya que no siempre cuentan con efectivo.
 A los usuarios eligen  los productos que tienen recomendaciones u opiniones positivas de otros comensales.
 
 ### 3.1 Recomendaciónes
 La plataforma web alamorzamos necesita implementar mejoras y nuevas funcionalidades para ofrecer el mejor servicio a los usuarios asegurando que tengan la facilidad desde su móvil.
 Implementación de funcionalidades para obetener el público deseado:
-Que le permita al usuario acceder a la información de los restaurantes(reviews)
-1. Ver las variedades de  menús por restaurantes.
-1. Los platos a la cartas  (Los destacados)
-1. Ver las promociones que los restaurantes ofrecen.
-1. Qué te permitirá realizar pedidos de diversos restaurantes.
-1. Tiempo que se demora la cocción de comida(approx)
-1. Que pueda seleccionar el tipo de comida que desee adquirir.
-1. Ver  cuáles restaurantes ofrecen el servicio de delivery, si es que se desea que el pedido llegue al centro de labor.
+1. Información de los restaurantes(reviews)
+1. Mostrar las variedades de comidas por restaurantes (con imagenes incluidas).
+1. Mostrar Los platos a la carta con imagenes (La especialidad de cada restaurante)
+1. Mostrar las  promociones que los restaurantes ofrecen.
+1. Agregar la opción que te permita realizar pedidos de diversos restaurantes.
+1. Mostrar el tiempo que tarda la cocción del plato elegido (aprox)
+1. Opción de seleccionar el tipo de comida que desee adquirir.
+1. Mostrar cuales son los restaurantes que ofrecen el servicio de delivery.
 1. Por medio de la geolocalización los  usuario puedan ver qué restaurantes que  hay en su entorno.
 
 ## Enlaces 
