@@ -49,7 +49,7 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
 ## Proceso
 
-<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70349013-e0ab2c80-1831-11ea-8d61-54785e482604.JPG">
+<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70355620-9d0bef00-1840-11ea-824c-bac97e4f67dc.png">
 
 </center>
   
