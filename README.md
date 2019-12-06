@@ -77,7 +77,7 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
-<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70361683-64741180-1850-11ea-8c0b-36fdb0902f60.png">
+<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/70355620-9d0bef00-1840-11ea-824c-bac97e4f67dc.png">
 
   
 
@@ -207,8 +207,37 @@ En el benchmark considere a estas aplicaciones internacionales.
 
   
 
+  
+
+### [2.1 Affinity Map]
+
+  
+
 La guía de entrevista estuvo orientada a conocer a los usuarios y sus experiencias con los restaurantes. Estas preguntas me permitió encontrar patrones de conducta para diseñar el user persona.
 
+  
+
+  
+
+<br>
+
+  
+
+<center><img  width="900"  alt="affinity map"  src="https://user-images.githubusercontent.com/51333504/69846477-21a7ad80-1242-11ea-8d2c-1c1eeaf9da6c.png">
+
+  
+
+  
+
+</center>
+
+  
+
+<br>
+
+  
+
+  
 
 ### 2.1. User persona
 
@@ -231,14 +260,9 @@ La guía de entrevista estuvo orientada a conocer a los usuarios y sus experienc
 <br>
 
   
-
-| Perfil |Persona | Edad |
-
+| Perfil   |  Persona |  Edad |
 |---|---|---|
-
-|*User persona*|*Liliana*|*28 años*|
-
-  
+| *User persona*  | *Liliana*  | *28 años*  |
 
   
 
@@ -304,7 +328,7 @@ En base a la investigación, se consideraron estos problem statements.
 
   
 
-<center><img  width="900"  alt="problem statement"  src="(https://user-images.githubusercontent.com/51333504/70361291-01ce4600-184f-11ea-922e-d658de9794da.png">
+<center><img  width="900"  alt="problem statement"  src="https://user-images.githubusercontent.com/51333504/70359407-d137dd80-1849-11ea-85d0-eda4b6fab3f0.png">
 
   
 
