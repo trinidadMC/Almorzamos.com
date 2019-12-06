@@ -101,7 +101,7 @@ Luego de las entrevistas a los usuarios, la conclución es:
 ### 2.2 Costumer Journey Map 
 
 Para identificar los puntos de mejora de la app realizamos un Costumer Journey Map del usuario en su dia de ir almorzar.
-<center><img width="2000" alt="Customer Journey Map - Almorzamos" src="(https://user-images.githubusercontent.com/51333504/70347718-24e8fd80-182f-11ea-98a2-6da18a885357.png">
+<center><img width="2000" alt="Customer Journey Map - Almorzamos" src="https://user-images.githubusercontent.com/51333504/70347718-24e8fd80-182f-11ea-98a2-6da18a885357.png">
 </center>
 <br>
 
