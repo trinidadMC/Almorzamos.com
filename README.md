@@ -3,10 +3,13 @@
   
 
   
-| Producto   |  Descripción   | Persona encargada   |
+
+| Producto | Descripción | Persona encargada |
+
 |---|---|---|
-| almorzamos.com (web)  |  *Plataforma web que te muestra los platos del día de diferentes restaurantes.*  |  *Trinidad Mejía*  |
- 
+
+| almorzamos.com (web) | *Plataforma web que te muestra los platos del día de diferentes restaurantes.* | *Trinidad Mejía* |
+
   
 
   
@@ -21,7 +24,11 @@
 
   
 
+  
+
 Almorzamos, es una plataforma web que agrupa diferentes platos del día de algunos restaurantes de Lima.
+
+  
 
   
 
@@ -41,9 +48,14 @@ Almorzamos, es una plataforma web que agrupa diferentes platos del día de algun
 
   
 
+  
+
 Durante mucho tiempo el modo de los usuarios al ir almorzar ha sido lo siguiente:
 
+  
+
 1. Buscan los restaurantes, son indecisos a la hora de almorzar
+
   
 
   
@@ -51,6 +63,8 @@ Durante mucho tiempo el modo de los usuarios al ir almorzar ha sido lo siguiente
   
 
 Las personas van hacia el local y son atendidas por una persona que se encarga de tomar su pedido y luego de un tiempo servirlo.
+
+  
 
   
 
@@ -68,7 +82,11 @@ Hoy en día esto representa un problema enorme porque, conlleva a una pérdida d
 
   
 
+  
+
 Es por ello que ya se están creando las tecnologías necesarias para solucionar este problema.
+
+  
 
   
 
@@ -86,7 +104,11 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+
 <br>
+
+  
 
   
 
@@ -106,7 +128,11 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+
 - Validar el prototipo que tenemos y cómo podríamos mejorarlo para acercarnos más al cliente esperado.
+
+  
 
   
 
@@ -124,7 +150,11 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+
 ## Proceso
+
+  
 
   
 
@@ -140,7 +170,11 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+
 </center>
+
+  
 
   
 
@@ -156,6 +190,8 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+
 ### 1.1. Entrevistas a usuarios
 
   
@@ -164,8 +200,12 @@ Es por ello que ya se están creando las tecnologías necesarias para solucionar
 
   
 
+  
+  
 
 La plataforma fue creada para usuarios con horarios de oficinas, cuyos perfiles definí como el user target. Realize entrevistas con 5 usuarios entre 21 y 40 años que cumplan con estas características.
+
+  
 
   
 
@@ -185,7 +225,11 @@ La plataforma fue creada para usuarios con horarios de oficinas, cuyos perfiles 
 
   
 
-- Todos los usuarios de telefonía móvil tienen al menos 1 aplicación  relacionada la comida instalado.
+  
+
+- Todos los usuarios de telefonía móvil tienen al menos 1 aplicación relacionada la comida instalado.
+
+  
 
   
 
@@ -201,7 +245,11 @@ La plataforma fue creada para usuarios con horarios de oficinas, cuyos perfiles 
 
   
 
+  
+
 - Todos los usuarios se tardan demasiado buscando un restaurante que le ofrezca algo que les guste, y los restaurantes más cercanos no cuentan con mesas disponibles, además se tardan demasiado en tomarles el pedido y en servirlo.
+
+  
 
   
 
@@ -219,7 +267,11 @@ La plataforma fue creada para usuarios con horarios de oficinas, cuyos perfiles 
 
   
 
+  
+
 >  *“Quiero que la app de comida me ofrezca un buen servicio, sea rápido y seguro”*
+
+  
 
   
 
@@ -235,7 +287,11 @@ La plataforma fue creada para usuarios con horarios de oficinas, cuyos perfiles 
 
   
 
+  
+
 <br>
+
+  
 
   
 
@@ -255,7 +311,11 @@ La plataforma fue creada para usuarios con horarios de oficinas, cuyos perfiles 
 
   
 
+  
+
 Se valido el flujo de la plataforma web. Para ello se realizó testing de guerrilla con 5 usuarios.
+
+  
 
   
 
@@ -273,7 +333,11 @@ Link de los video en loom:
 
   
 
+  
+
 #### [video 1](https://www.loom.com/share/1af5ee78ffca465ea77d28ef6062f8ec)
+
+  
 
   
 
@@ -289,6 +353,8 @@ Link de los video en loom:
 
   
 
+  
+
 #### [video 3](https://www.loom.com/share/5b395a6e880f48cc936ce90c32bffdb9)
 
   
@@ -297,7 +363,11 @@ Link de los video en loom:
 
   
 
+  
+
 #### [video 4](https://www.loom.com/share/1b08c5708e614b9e859a2ca4c13384ed)
+
+  
 
   
 
@@ -315,7 +385,11 @@ Link de los video en loom:
 
   
 
+  
+
 Luego de realizar los testing de guerrilla se identifico los siguientes problemas a nivel de usuario:
+
+  
 
   
 
@@ -325,22 +399,33 @@ Luego de realizar los testing de guerrilla se identifico los siguientes problema
 
 ### [1.1.3. Benchmark]
 
-
+  
+  
+  
 
 En el benchmark considere a estas aplicaciones internacionales:
 
-  #### [The Fork](https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette&hl=en) 
-  En la aplicación The fork las funcionalidades más relevantes a la mejora de la aplicacióm que
+  
 
-  #### [Mesa 24/7 ](https://play.google.com/store/apps/details?id=pe.mesa247&hl=en)
+#### [The Fork](https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette&hl=en)
 
-  #### [Restaurant near me](https://play.google.com/store/apps/details?id=com.heliumix.findrestaurantsnearme&hl=en)
-    
- 
+......
 
   
 
+#### [Mesa 24/7 ](https://play.google.com/store/apps/details?id=pe.mesa247&hl=en)
+
+  ......
+
+#### [Restaurant near me](https://play.google.com/store/apps/details?id=com.heliumix.findrestaurantsnearme&hl=en)
+
+  
+......
+  
+
 ## 2. Síntesis y definición
+
+  
 
   
 
@@ -354,6 +439,8 @@ La guía de entrevista estuvo orientada a conocer a los usuarios y sus experienc
 
   
 
+  
+
 ### 2.1. User persona
 
   
@@ -362,7 +449,11 @@ La guía de entrevista estuvo orientada a conocer a los usuarios y sus experienc
 
   
 
+  
+
 <br>
+
+  
 
   
 
@@ -380,7 +471,11 @@ La guía de entrevista estuvo orientada a conocer a los usuarios y sus experienc
 
   
 
+  
+
 </center>
+
+  
 
   
 
@@ -393,9 +488,14 @@ La guía de entrevista estuvo orientada a conocer a los usuarios y sus experienc
   
 
   
-| Perfil  |   Persona |  Edad  |
+
+| Perfil | Persona | Edad |
+
 |---|---|---|
-|  *User persona* |*Liliana*   | *28 años*  |
+
+| *User persona* |*Liliana* | *28 años* |
+
+  
 
 Luego de las entrevistas a los usuarios, la conclusión es:
 
@@ -405,7 +505,11 @@ Luego de las entrevistas a los usuarios, la conclusión es:
 
   
 
+  
+
 - Las necesidades del los usuarios tienen requerimientos que por el momento la plataforma web de Almorzamos no puede ofrecer.
+
+  
 
   
 
@@ -425,7 +529,11 @@ Luego de las entrevistas a los usuarios, la conclusión es:
 
   
 
+  
+
 Para identificar los puntos de mejora de la app realizamos un Costumer Journey Map del usuario en su tiempo de ir almorzar.
+
+  
 
   
 
@@ -441,7 +549,11 @@ Para identificar los puntos de mejora de la app realizamos un Costumer Journey M
 
   
 
+  
+
 </center>
+
+  
 
   
 
@@ -457,7 +569,11 @@ Para identificar los puntos de mejora de la app realizamos un Costumer Journey M
 
   
 
+  
+
 Estos fueron los siguientes puntos críticos:
+
+  
 
   
 
@@ -473,6 +589,8 @@ Estos fueron los siguientes puntos críticos:
 
   
 
+  
+
 1. A los usuarios les gustaría ver una imagen del plato que muestra la plataforma (todo entra por los ojos).
 
   
@@ -481,7 +599,11 @@ Estos fueron los siguientes puntos críticos:
 
   
 
+  
+
 1. A los usuarios Les pareció genial poder ver el menú de toda la semana, pero no pueden ver que otras opciones ofrecen los restaurantes.
+
+  
 
   
 
@@ -499,7 +621,11 @@ Estos fueron los siguientes puntos críticos:
 
   
 
+  
+
 ### 2.4. Problem Statements
+
+  
 
   
 
@@ -515,7 +641,11 @@ En base a la investigación, se consideraron estos problem statements.
 
   
 
-<center><img  width="900"  alt="problem statement"  src="https://user-images.githubusercontent.com/51333504/70364542-ecf7af80-185a-11ea-8f8c-f129b7ad764e.png">
+  
+
+<center><img  width="900"  alt="proceso"  src="https://user-images.githubusercontent.com/51333504/71547369-48eeb900-296d-11ea-9d8e-551db7bd62c7.png">
+
+  
 
   
 
@@ -524,6 +654,8 @@ En base a la investigación, se consideraron estos problem statements.
   
 
 </center>
+
+  
 
   
 
@@ -543,6 +675,8 @@ En base a la investigación, se consideraron estos problem statements.
 
   
 
+  
+
 Los usuarios se toman más de la mitad del tiempo que tienen en encontrar un restaurante con disponibilidad de mesa, la atención en los restaurantes se tarda demasiado y no disfrutan tanto sus almuerzo como quisieran.
 
   
@@ -551,7 +685,11 @@ Los usuarios se toman más de la mitad del tiempo que tienen en encontrar un res
 
   
 
+  
+
 Los usuarios necesitan poder pagar con diferentes métodos (tarjetas de crédito o débito) dado que los usuarios no siempre cuentan con efectivo disponible.
+
+  
 
   
 
@@ -569,7 +707,11 @@ A los usuarios eligen los productos que tienen recomendaciones u opiniones posit
 
   
 
+  
+
 ### 3.1 Recomendaciones
+
+  
 
   
 
@@ -585,7 +727,11 @@ La plataforma web almorzamos necesita implementar mejoras y nuevas funcionalidad
 
   
 
+  
+
 Implementación de funcionalidades para obtener el público deseado:
+
+  
 
   
 
@@ -601,7 +747,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 1. Mostrar las variedades de comidas por restaurantes (con imágenes incluidas).
+
+  
 
   
 
@@ -617,7 +767,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 1. Mostrar las promociones que los restaurantes ofrecen.
+
+  
 
   
 
@@ -633,7 +787,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 1. Mostrar el tiempo que tarda la cocción del plato elegido (aprox)
+
+  
 
   
 
@@ -649,7 +807,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 1. Mostrar cuales son los restaurantes que ofrecen el servicio de delivery.
+
+  
 
   
 
@@ -667,7 +829,11 @@ Implementación de funcionalidades para obtener el público deseado:
 
   
 
+  
+
 ## Enlaces
+
+  
 
   
 
