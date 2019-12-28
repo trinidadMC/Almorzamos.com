@@ -3,12 +3,9 @@
   
 
   
-
-| Producto | Descripción | Persona encargada |
-
+| Producto  | Descripción   |Persona encargada   |
 |---|---|---|
-
-| almorzamos.com (web) | *Plataforma web que te muestra los platos del día de diferentes restaurantes.* | *Trinidad Mejía* |
+|  almorzamos.com (web)   |  *Plataforma web que te muestra los platos del día de diferentes restaurantes.* |  *Trinidad Mejía*  |
 
   
 
@@ -487,13 +484,10 @@ La guía de entrevista estuvo orientada a conocer a los usuarios y sus experienc
 
   
 
-  
-
-| Perfil | Persona | Edad |
-
+ |Perfil    | Persona  |  Edad |
 |---|---|---|
-
-| *User persona* |*Liliana* | *28 años* |
+| *User persona* | *Liliana* |*28 años*   |
+|
 
   
 
